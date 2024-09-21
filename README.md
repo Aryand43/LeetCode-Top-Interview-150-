@@ -25,3 +25,4 @@
 - **Problem**: [Majority Element](https://leetcode.com/problems/majority-element/)
 - **Solution**: [Java](./Arrays/MajorityElement.java)
 - **Approach**: Implemented the Boyer-Moore Voting Algorithm to find the majority element in linear time and constant space.
+- **Visual Explanation**: [Image](./Arrays/images/MajorityElement_Explanation.png)
