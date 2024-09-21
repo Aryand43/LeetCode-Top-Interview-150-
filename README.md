@@ -14,3 +14,9 @@
 - **Problem**: [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - **Solution**: [Java](./Arrays/RemoveDuplicatesFromSortedArray.java)
 - **Approach**: Used a two-pointer technique to keep track of unique elements and overwrite duplicates.
+
+### 4. Remove Duplicates from Sorted Array II
+- **Problem**: [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+- **Solution**: [Java](./Arrays/RemoveDuplicatesFromSortedArrayII.java)
+- **Approach**: Used a two-pointer technique to keep track of allowed elements (up to two occurrences of each).
+- **Visual Explanation**: [Image](./Arrays/images/RemoveDuplicatesII_Explanation.png)
