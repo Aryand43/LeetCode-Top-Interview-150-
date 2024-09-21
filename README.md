@@ -20,3 +20,8 @@
 - **Solution**: [Java](./Arrays/RemoveDuplicatesFromSortedArrayII.java)
 - **Approach**: Used a two-pointer technique to keep track of allowed elements (up to two occurrences of each).
 - **Visual Explanation**: [Image](./Arrays/images/RemoveDuplicatesII_Explanation.png)
+
+### 5. Majority Element
+- **Problem**: [Majority Element](https://leetcode.com/problems/majority-element/)
+- **Solution**: [Java](./Arrays/MajorityElement.java)
+- **Approach**: Implemented the Boyer-Moore Voting Algorithm to find the majority element in linear time and constant space.
